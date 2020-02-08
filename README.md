@@ -1,6 +1,6 @@
 # Blight Prediction - Detriot
 
-***Description of Data Fields 
+### Description of Data Fields 
 
 ticket_id - unique identifier for tickets
 
